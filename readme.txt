@@ -15,3 +15,9 @@ for testing of jodatime
 
 for testing of airlift
 ./pushTestAirlift.sh commits.txt
+
+The list of all the OSS on GITHUB can be found under folder OSSprojects.
+fullList.csv  // random order of lists
+fullListA-Z.csv // ordered by the program languages
+
+
