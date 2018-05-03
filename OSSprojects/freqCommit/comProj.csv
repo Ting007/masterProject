@@ -1,0 +1,758 @@
+8695 angular.txt
+0 sec 1144	30 sec 608	60 sec 134	5 min 812	10 min 507	> 10 min 5490	
+30302 joomla-cms.txt
+0 sec 139	30 sec 1162	60 sec 1389	5 min 4935	10 min 2925	> 10 min 19752	
+17277 katello.txt
+0 sec 1802	30 sec 690	60 sec 456	5 min 1546	10 min 1225	> 10 min 11558	
+21391 spark.txt
+0 sec 371	30 sec 392	60 sec 410	5 min 2826	10 min 1708	> 10 min 15684	
+18670 dmd.txt
+0 sec 640	30 sec 1392	60 sec 435	5 min 1394	10 min 831	> 10 min 13978	
+28148 scala.txt
+0 sec 926	30 sec 2217	60 sec 1085	5 min 2931	10 min 1596	> 10 min 19393	
+17618 brackets.txt
+0 sec 161	30 sec 570	60 sec 397	5 min 2472	10 min 1955	> 10 min 12063	
+23756 ppsspp.txt
+0 sec 1747	30 sec 2192	60 sec 1067	5 min 3422	10 min 2125	> 10 min 13203	
+44952 metasploit-framework.txt
+0 sec 1028	30 sec 1617	60 sec 1726	5 min 7210	10 min 4720	> 10 min 28651	
+34196 cakephp.txt
+0 sec 2123	30 sec 1324	60 sec 932	5 min 4277	10 min 2900	> 10 min 22640	
+50190 cdnjs.txt
+0 sec 519	30 sec 7705	60 sec 5301	5 min 7080	10 min 4156	> 10 min 25429	
+82707 ceph.txt
+0 sec 19660	30 sec 8594	60 sec 3314	5 min 9207	10 min 5660	> 10 min 36272	
+20119 framework.txt
+0 sec 108	30 sec 2781	60 sec 1385	5 min 3664	10 min 1783	> 10 min 10398	
+16012 bitcoin.txt
+0 sec 1607	30 sec 716	60 sec 340	5 min 1449	10 min 977	> 10 min 10923	
+22997 ipython.txt
+0 sec 3841	30 sec 1264	60 sec 612	5 min 2580	10 min 1834	> 10 min 12866	
+27025 puppet.txt
+0 sec 3395	30 sec 2324	60 sec 849	5 min 3223	10 min 2038	> 10 min 15196	
+4764 wet-boew.txt
+0 sec 84	30 sec 267	60 sec 160	5 min 528	10 min 488	> 10 min 3237	
+15960 ember.txt
+0 sec 876	30 sec 731	60 sec 403	5 min 1476	10 min 1203	> 10 min 11271	
+45813 openmicroscopy.txt
+0 sec 6494	30 sec 6992	60 sec 2203	5 min 5230	10 min 2929	> 10 min 21965	
+13757 calcentral.txt
+0 sec 517	30 sec 487	60 sec 360	5 min 1897	10 min 1346	> 10 min 9150	
+30947 sympy.txt
+0 sec 5111	30 sec 3155	60 sec 656	5 min 2704	10 min 1649	> 10 min 17672	
+18160 spree.txt
+0 sec 4377	30 sec 1448	60 sec 392	5 min 1645	10 min 1030	> 10 min 9268	
+31305 phpbb.txt
+0 sec 1989	30 sec 4048	60 sec 1296	5 min 4459	10 min 2574	> 10 min 16939	
+30059 elasticsearch.txt
+0 sec 1241	30 sec 1010	60 sec 689	5 min 3323	10 min 2665	> 10 min 21131	
+1 node.txt
+0 sec 0	30 sec 0	60 sec 0	5 min 0	10 min 0	> 10 min 1	
+16467 pandas.txt
+0 sec 713	30 sec 580	60 sec 360	5 min 1876	10 min 1191	> 10 min 11747	
+68004 gitlabhq.txt
+0 sec 9335	30 sec 4472	60 sec 2774	5 min 11897	10 min 8359	> 10 min 31167	
+40710 DefinitelyTyped.txt
+0 sec 438	30 sec 3031	60 sec 2996	5 min 9771	10 min 4781	> 10 min 19693	
+14166 kuma.txt
+0 sec 870	30 sec 691	60 sec 316	5 min 1202	10 min 959	> 10 min 10128	
+26340 discourse.txt
+0 sec 1260	30 sec 729	60 sec 628	5 min 2717	10 min 2215	> 10 min 18791	
+25542 zamboni.txt
+0 sec 1224	30 sec 1230	60 sec 646	5 min 3106	10 min 2470	> 10 min 16866	
+19526 silverstripe-framework.txt
+0 sec 2492	30 sec 2218	60 sec 891	5 min 2084	10 min 1132	> 10 min 10709	
+10533 pdf.txt
+0 sec 730	30 sec 262	60 sec 157	5 min 901	10 min 741	> 10 min 7742	
+11071 bedrock.txt
+0 sec 287	30 sec 335	60 sec 180	5 min 1079	10 min 959	> 10 min 8231	
+10816 socorro.txt
+0 sec 477	30 sec 324	60 sec 288	5 min 1120	10 min 723	> 10 min 7884	
+7075 processmaker.txt
+0 sec 20	30 sec 254	60 sec 214	5 min 1284	10 min 727	> 10 min 4576	
+26111 ggrc-core.txt
+0 sec 4113	30 sec 2027	60 sec 918	5 min 3345	10 min 2187	> 10 min 13521	
+6510 kitsune.txt
+0 sec 504	30 sec 361	60 sec 109	5 min 398	10 min 296	> 10 min 4842	
+64283 dolibarr.txt
+0 sec 787	30 sec 3608	60 sec 3254	5 min 11171	10 min 7923	> 10 min 37540	
+44572 PrestaShop.txt
+0 sec 11185	30 sec 3455	60 sec 1575	5 min 6581	10 min 4491	> 10 min 17285	
+31512 TrinityCore.txt
+0 sec 226	30 sec 1090	60 sec 1024	5 min 4338	10 min 2686	> 10 min 22148	
+7938 Ghost.txt
+0 sec 295	30 sec 313	60 sec 189	5 min 740	10 min 572	> 10 min 5829	
+33550 openproject.txt
+0 sec 5840	30 sec 2762	60 sec 1299	5 min 4198	10 min 2793	> 10 min 16658	
+22550 scikit-learn.txt
+0 sec 3739	30 sec 1225	60 sec 703	5 min 2486	10 min 1690	> 10 min 12707	
+21370 astropy.txt
+0 sec 5417	30 sec 1564	60 sec 545	5 min 2145	10 min 1278	> 10 min 10421	
+12228 fog.txt
+0 sec 1280	30 sec 797	60 sec 482	5 min 1376	10 min 777	> 10 min 7516	
+25598 woocommerce.txt
+0 sec 1039	30 sec 1910	60 sec 1079	5 min 4298	10 min 2651	> 10 min 14621	
+24285 matplotlib.txt
+0 sec 1883	30 sec 1278	60 sec 827	5 min 2818	10 min 1628	> 10 min 15851	
+9052 melpa.txt
+0 sec 160	30 sec 338	60 sec 307	5 min 1074	10 min 551	> 10 min 6622	
+22573 ol3.txt
+0 sec 3438	30 sec 1316	60 sec 700	5 min 2452	10 min 1589	> 10 min 13078	
+34111 pim-community-dev.txt
+0 sec 3870	30 sec 3157	60 sec 2329	5 min 6760	10 min 3749	> 10 min 14246	
+9209 mruby.txt
+0 sec 370	30 sec 530	60 sec 506	5 min 1360	10 min 624	> 10 min 5819	
+10756 libgit2.txt
+0 sec 1620	30 sec 1015	60 sec 272	5 min 1001	10 min 593	> 10 min 6255	
+17403 numpy.txt
+0 sec 1323	30 sec 1338	60 sec 398	5 min 1250	10 min 886	> 10 min 12208	
+16328 shogun.txt
+0 sec 1811	30 sec 802	60 sec 556	5 min 1810	10 min 1059	> 10 min 10290	
+20311 whitehall.txt
+0 sec 3856	30 sec 1809	60 sec 503	5 min 2054	10 min 1731	> 10 min 10358	
+12441 presto.txt
+0 sec 4589	30 sec 800	60 sec 177	5 min 612	10 min 408	> 10 min 5855	
+19365 diaspora.txt
+0 sec 2529	30 sec 1785	60 sec 695	5 min 2508	10 min 1569	> 10 min 10279	
+19693 xtuple.txt
+0 sec 56	30 sec 1069	60 sec 1212	5 min 3868	10 min 2042	> 10 min 11446	
+13780 otwarchive.txt
+0 sec 666	30 sec 603	60 sec 473	5 min 1738	10 min 971	> 10 min 9329	
+7187 moonstone.txt
+0 sec 198	30 sec 275	60 sec 225	5 min 1073	10 min 693	> 10 min 4723	
+15682 Elgg.txt
+0 sec 254	30 sec 527	60 sec 429	5 min 2002	10 min 1696	> 10 min 10774	
+26283 livecode.txt
+0 sec 1248	30 sec 2616	60 sec 1704	5 min 5162	10 min 2993	> 10 min 12560	
+13107 jquery-mobile.txt
+0 sec 1934	30 sec 919	60 sec 402	5 min 1772	10 min 1153	> 10 min 6927	
+17617 pioneer.txt
+0 sec 1398	30 sec 1555	60 sec 867	5 min 2246	10 min 1317	> 10 min 10234	
+15235 foundation.txt
+0 sec 435	30 sec 1571	60 sec 759	5 min 2648	10 min 1523	> 10 min 8299	
+6940 addon-sdk.txt
+0 sec 54	30 sec 206	60 sec 231	5 min 884	10 min 534	> 10 min 5031	
+15702 django-cms.txt
+0 sec 695	30 sec 1674	60 sec 820	5 min 2431	10 min 1228	> 10 min 8854	
+27928 Theano.txt
+0 sec 3498	30 sec 3261	60 sec 1346	5 min 3650	10 min 1953	> 10 min 14220	
+16781 RIOT.txt
+0 sec 2879	30 sec 1088	60 sec 497	5 min 1795	10 min 1162	> 10 min 9360	
+6760 onepercentclub-site.txt
+0 sec 403	30 sec 518	60 sec 343	5 min 1223	10 min 694	> 10 min 3579	
+4345 pouchdb.txt
+0 sec 338	30 sec 224	60 sec 143	5 min 526	10 min 221	> 10 min 2893	
+5645 virt-test.txt
+0 sec 1685	30 sec 453	60 sec 116	5 min 464	10 min 276	> 10 min 2651	
+6350 appium.txt
+0 sec 481	30 sec 238	60 sec 170	5 min 909	10 min 547	> 10 min 4005	
+21106 concrete5.txt
+0 sec 203	30 sec 1437	60 sec 992	5 min 3756	10 min 2046	> 10 min 12672	
+6307 jquery.txt
+0 sec 220	30 sec 227	60 sec 105	5 min 605	10 min 503	> 10 min 4647	
+18587 scipy.txt
+0 sec 1932	30 sec 1326	60 sec 557	5 min 1649	10 min 1050	> 10 min 12073	
+9626 react.txt
+0 sec 736	30 sec 513	60 sec 266	5 min 1017	10 min 675	> 10 min 6419	
+5547 laravel.txt
+0 sec 9	30 sec 383	60 sec 353	5 min 1014	10 min 426	> 10 min 3362	
+3117 butter.txt
+0 sec 303	30 sec 129	60 sec 90	5 min 502	10 min 368	> 10 min 1725	
+8630 logstash.txt
+0 sec 797	30 sec 664	60 sec 346	5 min 1074	10 min 591	> 10 min 5158	
+12661 MuseScore.txt
+0 sec 1029	30 sec 945	60 sec 346	5 min 1053	10 min 654	> 10 min 8634	
+9596 configuration.txt
+0 sec 764	30 sec 443	60 sec 275	5 min 1272	10 min 808	> 10 min 6034	
+7130 boto.txt
+10962 SocialSDK.txt
+0 sec 5223	30 sec 307	60 sec 469	5 min 1203	10 min 496	> 10 min 3264	
+1075 pyrocms.txt
+0 sec 0	30 sec 138	60 sec 89	5 min 144	10 min 71	> 10 min 633	
+5348 SonataAdminBundle.txt
+0 sec 224	30 sec 191	60 sec 152	5 min 517	10 min 338	> 10 min 3926	
+17028 buildbot.txt
+0 sec 1626	30 sec 1311	60 sec 609	5 min 2258	10 min 1248	> 10 min 9976	
+112452 phpmyadmin.txt
+0 sec 5540	30 sec 42829	60 sec 13362	5 min 18645	10 min 5360	> 10 min 26716	
+37289 manageiq.txt
+0 sec 5740	30 sec 2650	60 sec 1402	5 min 6091	10 min 4350	> 10 min 17056	
+5796 deis.txt
+0 sec 557	30 sec 266	60 sec 163	5 min 590	10 min 397	> 10 min 3823	
+26075 cesium.txt
+0 sec 129	30 sec 1464	60 sec 1133	5 min 4999	10 min 3214	> 10 min 15136	
+5484 data.txt
+0 sec 191	30 sec 211	60 sec 148	5 min 567	10 min 444	> 10 min 3923	
+3362 backbone.txt
+0 sec 124	30 sec 127	60 sec 77	5 min 421	10 min 309	> 10 min 2304	
+19480 bioformats.txt
+0 sec 1711	30 sec 1583	60 sec 717	5 min 1723	10 min 1062	> 10 min 12684	
+13249 loomio.txt
+0 sec 241	30 sec 885	60 sec 799	5 min 1865	10 min 1177	> 10 min 8282	
+15803 openFrameworks.txt
+0 sec 94	30 sec 1008	60 sec 1300	5 min 3100	10 min 1547	> 10 min 8754	
+28230 web-platform-tests.txt
+0 sec 2194	30 sec 2845	60 sec 1232	5 min 3666	10 min 2123	> 10 min 16170	
+10094 bluebottle.txt
+0 sec 325	30 sec 639	60 sec 551	5 min 1702	10 min 1078	> 10 min 5799	
+10015 refinerycms.txt
+0 sec 533	30 sec 623	60 sec 407	5 min 1427	10 min 858	> 10 min 6167	
+67575 code-dot-org.txt
+0 sec 3139	30 sec 7074	60 sec 5272	5 min 21135	10 min 11880	> 10 min 19075	
+16696 smart-answers.txt
+0 sec 4108	30 sec 2925	60 sec 555	5 min 1700	10 min 1169	> 10 min 6239	
+7162 jquery-ui.txt
+0 sec 358	30 sec 285	60 sec 165	5 min 871	10 min 623	> 10 min 4860	
+13872 CM.txt
+0 sec 52	30 sec 631	60 sec 634	5 min 2400	10 min 1549	> 10 min 8606	
+14669 Pokemon-Showdown.txt
+0 sec 588	30 sec 534	60 sec 404	5 min 1536	10 min 1000	> 10 min 10607	
+16735 Sylius.txt
+0 sec 2293	30 sec 1185	60 sec 663	5 min 2068	10 min 1213	> 10 min 9313	
+25823 hhvm.txt
+0 sec 4670	30 sec 8699	60 sec 588	5 min 729	10 min 142	> 10 min 10995	
+50707 chapel.txt
+0 sec 895	30 sec 8543	60 sec 1605	5 min 7613	10 min 5511	> 10 min 26540	
+7665 django-rest-framework.txt
+0 sec 112	30 sec 377	60 sec 259	5 min 1111	10 min 702	> 10 min 5104	
+9597 jekyll.txt
+0 sec 450	30 sec 1571	60 sec 754	5 min 1394	10 min 615	> 10 min 4813	
+14472 ka-lite.txt
+0 sec 681	30 sec 1264	60 sec 802	5 min 2334	10 min 1354	> 10 min 8037	
+7174 cryptography.txt
+0 sec 379	30 sec 266	60 sec 210	5 min 879	10 min 533	> 10 min 4907	
+14514 Elkarte.txt
+0 sec 1849	30 sec 1291	60 sec 973	5 min 2369	10 min 1069	> 10 min 6963	
+10994 kivy.txt
+0 sec 364	30 sec 644	60 sec 419	5 min 1348	10 min 780	> 10 min 7439	
+9745 cphalcon.txt
+0 sec 565	30 sec 725	60 sec 475	5 min 1306	10 min 748	> 10 min 5926	
+8641 suricata.txt
+0 sec 3720	30 sec 668	60 sec 184	5 min 653	10 min 310	> 10 min 3106	
+7862 composer.txt
+0 sec 260	30 sec 505	60 sec 241	5 min 1002	10 min 684	> 10 min 5170	
+8649 netty.txt
+0 sec 119	30 sec 286	60 sec 217	5 min 1300	10 min 776	> 10 min 5951	
+14715 Easy-Digital-Downloads.txt
+0 sec 18	30 sec 1256	60 sec 882	5 min 3427	10 min 1594	> 10 min 7538	
+11649 doctrine2.txt
+0 sec 826	30 sec 893	60 sec 405	5 min 1535	10 min 938	> 10 min 7052	
+6804 robottelo.txt
+0 sec 225	30 sec 94	60 sec 147	5 min 806	10 min 617	> 10 min 4915	
+10986 homebrew-science.txt
+0 sec 1150	30 sec 3077	60 sec 715	5 min 1179	10 min 394	> 10 min 4471	
+10563 vagrant.txt
+0 sec 490	30 sec 879	60 sec 761	5 min 2061	10 min 1045	> 10 min 5327	
+1791 ralph.txt
+0 sec 6	30 sec 87	60 sec 49	5 min 212	10 min 152	> 10 min 1285	
+4229 mifosx.txt
+0 sec 13	30 sec 96	60 sec 73	5 min 499	10 min 276	> 10 min 3272	
+12089 Phraseanet.txt
+0 sec 2339	30 sec 1456	60 sec 799	5 min 1631	10 min 737	> 10 min 5127	
+12456 core.txt
+0 sec 533	30 sec 1171	60 sec 696	5 min 1699	10 min 1016	> 10 min 7341	
+5700 linguist.txt
+0 sec 127	30 sec 233	60 sec 272	5 min 1008	10 min 529	> 10 min 3531	
+7147 khan-exercises.txt
+0 sec 405	30 sec 305	60 sec 239	5 min 1001	10 min 620	> 10 min 4577	
+4005 active_merchant.txt
+0 sec 192	30 sec 112	60 sec 67	5 min 389	10 min 262	> 10 min 2983	
+18229 mwEmbed.txt
+0 sec 34	30 sec 1031	60 sec 1032	5 min 3133	10 min 1637	> 10 min 11362	
+3362 backbone.txt
+0 sec 124	30 sec 127	60 sec 77	5 min 421	10 min 309	> 10 min 2304	
+9108 pokemon-online.txt
+0 sec 104	30 sec 682	60 sec 332	5 min 1150	10 min 721	> 10 min 6119	
+14472 ezpublish-kernel.txt
+0 sec 3425	30 sec 1284	60 sec 635	5 min 1672	10 min 845	> 10 min 6611	
+4178 mozillians.txt
+0 sec 156	30 sec 144	60 sec 84	5 min 362	10 min 300	> 10 min 3132	
+7827 zds-site.txt
+0 sec 943	30 sec 458	60 sec 252	5 min 894	10 min 606	> 10 min 4674	
+13312 mne-python.txt
+0 sec 3763	30 sec 602	60 sec 245	5 min 1028	10 min 670	> 10 min 7004	
+4480 wet-boew-drupal.txt
+0 sec 1	30 sec 293	60 sec 444	5 min 889	10 min 389	> 10 min 2464	
+6898 rSENSE.txt
+0 sec 81	30 sec 444	60 sec 303	5 min 1209	10 min 642	> 10 min 4219	
+10162 neovim.txt
+0 sec 2732	30 sec 798	60 sec 183	5 min 767	10 min 463	> 10 min 5219	
+6527 Leaflet.txt
+0 sec 280	30 sec 381	60 sec 261	5 min 810	10 min 513	> 10 min 4282	
+4265 iris.txt
+0 sec 280	30 sec 191	60 sec 69	5 min 357	10 min 257	> 10 min 3111	
+6397 ome-documentation.txt
+0 sec 852	30 sec 472	60 sec 169	5 min 623	10 min 475	> 10 min 3806	
+5336 requests.txt
+11125 Markus.txt
+0 sec 630	30 sec 479	60 sec 392	5 min 1640	10 min 1011	> 10 min 6973	
+25506 rubinius.txt
+0 sec 3941	30 sec 2150	60 sec 755	5 min 2127	10 min 1540	> 10 min 14993	
+25380 yui3.txt
+0 sec 826	30 sec 3701	60 sec 1860	5 min 5093	10 min 2282	> 10 min 11618	
+4883 etherpad-lite.txt
+0 sec 127	30 sec 298	60 sec 199	5 min 748	10 min 403	> 10 min 3108	
+7051 ace.txt
+0 sec 608	30 sec 680	60 sec 302	5 min 933	10 min 441	> 10 min 4087	
+11493 zeroclickinfo-spice.txt
+0 sec 555	30 sec 357	60 sec 365	5 min 1571	10 min 1071	> 10 min 7574	
+5623 ripple-client.txt
+0 sec 507	30 sec 426	60 sec 222	5 min 781	10 min 409	> 10 min 3278	
+8782 cockpit.txt
+0 sec 722	30 sec 2615	60 sec 439	5 min 910	10 min 372	> 10 min 3724	
+2398 underscore.txt
+0 sec 26	30 sec 93	60 sec 48	5 min 244	10 min 199	> 10 min 1788	
+18333 fontforge.txt
+0 sec 5198	30 sec 877	60 sec 459	5 min 1993	10 min 834	> 10 min 8972	
+5080 OTM2.txt
+0 sec 654	30 sec 452	60 sec 201	5 min 515	10 min 277	> 10 min 2981	
+17154 WCF.txt
+0 sec 506	30 sec 1853	60 sec 621	5 min 2708	10 min 1475	> 10 min 9991	
+16633 kibana.txt
+0 sec 2207	30 sec 900	60 sec 676	5 min 2271	10 min 1568	> 10 min 9011	
+11090 CONNECT.txt
+0 sec 356	30 sec 726	60 sec 505	5 min 1423	10 min 771	> 10 min 7309	
+7118 pylearn2.txt
+0 sec 402	30 sec 1130	60 sec 467	5 min 870	10 min 476	> 10 min 3773	
+4353 locawebstyle.txt
+0 sec 661	30 sec 799	60 sec 217	5 min 614	10 min 339	> 10 min 1723	
+10343 eden.txt
+0 sec 17	30 sec 306	60 sec 290	5 min 930	10 min 659	> 10 min 8141	
+4045 mojito.txt
+0 sec 263	30 sec 291	60 sec 118	5 min 609	10 min 381	> 10 min 2383	
+13712 pdns.txt
+0 sec 1372	30 sec 1022	60 sec 617	5 min 1513	10 min 764	> 10 min 8424	
+21072 ezpublish-legacy.txt
+0 sec 348	30 sec 542	60 sec 674	5 min 3212	10 min 2113	> 10 min 14183	
+10463 pyramid.txt
+0 sec 183	30 sec 701	60 sec 478	5 min 1827	10 min 1110	> 10 min 6164	
+6776 exercism.txt
+0 sec 390	30 sec 335	60 sec 227	5 min 885	10 min 561	> 10 min 4378	
+5245 rspec-core.txt
+0 sec 555	30 sec 239	60 sec 123	5 min 525	10 min 313	> 10 min 3490	
+26973 WordPress-Android.txt
+0 sec 1076	30 sec 1597	60 sec 1142	5 min 3887	10 min 2756	> 10 min 16515	
+9617 otter.txt
+0 sec 214	30 sec 1261	60 sec 447	5 min 1558	10 min 1024	> 10 min 5113	
+9589 scikit-image.txt
+0 sec 1756	30 sec 468	60 sec 291	5 min 1065	10 min 592	> 10 min 5417	
+4675 enyo.txt
+0 sec 238	30 sec 267	60 sec 201	5 min 566	10 min 280	> 10 min 3123	
+7872 sequelize.txt
+0 sec 309	30 sec 770	60 sec 340	5 min 1082	10 min 638	> 10 min 4733	
+8052 vumi-go.txt
+0 sec 56	30 sec 534	60 sec 432	5 min 1328	10 min 915	> 10 min 4787	
+2929 ninja-ide.txt
+0 sec 61	30 sec 130	60 sec 268	5 min 637	10 min 215	> 10 min 1618	
+106506 php-src.txt
+0 sec 5848	30 sec 11735	60 sec 7200	5 min 17416	10 min 8218	> 10 min 56089	
+15870 youtube-dl.txt
+0 sec 528	30 sec 1015	60 sec 707	5 min 2747	10 min 1451	> 10 min 9422	
+8329 geoserver.txt
+0 sec 487	30 sec 402	60 sec 229	5 min 881	10 min 426	> 10 min 5904	
+5619 pip.txt
+0 sec 429	30 sec 295	60 sec 169	5 min 632	10 min 317	> 10 min 3777	
+3951 php-mpos.txt
+0 sec 208	30 sec 310	60 sec 276	5 min 765	10 min 404	> 10 min 1988	
+6180 libzmq.txt
+0 sec 252	30 sec 245	60 sec 158	5 min 555	10 min 412	> 10 min 4558	
+3027 remo.txt
+0 sec 99	30 sec 112	60 sec 122	5 min 287	10 min 243	> 10 min 2164	
+2942 sensu-community-plugins.txt
+0 sec 39	30 sec 126	60 sec 144	5 min 440	10 min 250	> 10 min 1943	
+7304 c2cgeoportal.txt
+0 sec 900	30 sec 547	60 sec 304	5 min 745	10 min 395	> 10 min 4413	
+2909 community-app.txt
+0 sec 6	30 sec 73	60 sec 70	5 min 363	10 min 222	> 10 min 2175	
+4030 spotlight.txt
+0 sec 880	30 sec 277	60 sec 155	5 min 494	10 min 321	> 10 min 1903	
+11658 geonode.txt
+0 sec 178	30 sec 904	60 sec 620	5 min 1678	10 min 963	> 10 min 7315	
+9415 bundler.txt
+0 sec 1296	30 sec 711	60 sec 288	5 min 825	10 min 477	> 10 min 5818	
+4891 fxa-content-server.txt
+0 sec 135	30 sec 99	60 sec 92	5 min 405	10 min 267	> 10 min 3893	
+21315 erpnext.txt
+0 sec 2128	30 sec 1650	60 sec 1469	5 min 3405	10 min 1802	> 10 min 10861	
+44263 jruby.txt
+0 sec 5505	30 sec 2804	60 sec 1369	5 min 4706	10 min 3378	> 10 min 26501	
+6857 rubocop.txt
+0 sec 950	30 sec 296	60 sec 211	5 min 689	10 min 286	> 10 min 4425	
+6093 Malhar.txt
+0 sec 371	30 sec 253	60 sec 180	5 min 745	10 min 461	> 10 min 4083	
+3102 okhttp.txt
+0 sec 6	30 sec 131	60 sec 91	5 min 273	10 min 281	> 10 min 2320	
+6301 eslint.txt
+0 sec 20	30 sec 273	60 sec 204	5 min 725	10 min 454	> 10 min 4625	
+2995 puppetlabs-apache.txt
+0 sec 172	30 sec 78	60 sec 67	5 min 272	10 min 152	> 10 min 2254	
+10023 plottable.txt
+0 sec 222	30 sec 577	60 sec 534	5 min 2479	10 min 1431	> 10 min 4780	
+12456 core.txt
+0 sec 533	30 sec 1171	60 sec 696	5 min 1699	10 min 1016	> 10 min 7341	
+2697 MozStumbler.txt
+0 sec 130	30 sec 108	60 sec 115	5 min 330	10 min 229	> 10 min 1785	
+9467 dokuwiki.txt
+0 sec 197	30 sec 242	60 sec 245	5 min 1114	10 min 705	> 10 min 6964	
+5695 facter.txt
+0 sec 341	30 sec 412	60 sec 190	5 min 654	10 min 352	> 10 min 3746	
+21193 concrete5-5.txt
+0 sec 216	30 sec 1460	60 sec 998	5 min 3777	10 min 2056	> 10 min 12686	
+6977 BuildCraft.txt
+0 sec 45	30 sec 269	60 sec 205	5 min 821	10 min 535	> 10 min 5102	
+7957 UNL_UndergraduateBulletin.txt
+0 sec 15	30 sec 1175	60 sec 482	5 min 1757	10 min 952	> 10 min 3576	
+2072 bootstrap.txt
+0 sec 40	30 sec 77	60 sec 109	5 min 308	10 min 130	> 10 min 1408	
+6222 mongoid.txt
+0 sec 661	30 sec 430	60 sec 181	5 min 754	10 min 485	> 10 min 3711	
+9632 FrameworkBenchmarks.txt
+0 sec 1827	30 sec 469	60 sec 389	5 min 1253	10 min 685	> 10 min 5009	
+1729 traceur-compiler.txt
+0 sec 25	30 sec 58	60 sec 22	5 min 145	10 min 109	> 10 min 1370	
+2585 mongo-php-driver.txt
+0 sec 578	30 sec 292	60 sec 168	5 min 320	10 min 133	> 10 min 1094	
+16663 habitrpg.txt
+0 sec 597	30 sec 1131	60 sec 657	5 min 2316	10 min 1624	> 10 min 10338	
+4089 play1.txt
+0 sec 90	30 sec 176	60 sec 116	5 min 410	10 min 282	> 10 min 3015	
+2831 pelican.txt
+0 sec 149	30 sec 115	60 sec 83	5 min 318	10 min 165	> 10 min 2001	
+5531 chiliproject.txt
+0 sec 524	30 sec 409	60 sec 122	5 min 550	10 min 403	> 10 min 3523	
+9154 sunpy.txt
+0 sec 1024	30 sec 572	60 sec 357	5 min 1257	10 min 711	> 10 min 5233	
+1567 ariatemplates.txt
+0 sec 37	30 sec 82	60 sec 13	5 min 106	10 min 68	> 10 min 1261	
+9728 statsmodels.txt
+0 sec 2216	30 sec 1502	60 sec 251	5 min 857	10 min 464	> 10 min 4438	
+4594 rr.txt
+0 sec 1073	30 sec 169	60 sec 133	5 min 434	10 min 235	> 10 min 2550	
+7987 npm.txt
+0 sec 1600	30 sec 1239	60 sec 440	5 min 952	10 min 446	> 10 min 3310	
+9577 DSpace.txt
+0 sec 496	30 sec 587	60 sec 353	5 min 1112	10 min 604	> 10 min 6425	
+10470 MCServer.txt
+0 sec 228	30 sec 466	60 sec 347	5 min 1436	10 min 932	> 10 min 7061	
+7641 aodn-portal.txt
+0 sec 1332	30 sec 302	60 sec 169	5 min 668	10 min 615	> 10 min 4555	
+5166 ares-project.txt
+0 sec 10	30 sec 179	60 sec 312	5 min 1067	10 min 537	> 10 min 3061	
+11539 forkcms.txt
+0 sec 748	30 sec 851	60 sec 622	5 min 2117	10 min 1172	> 10 min 6029	
+4013 scalding.txt
+0 sec 91	30 sec 151	60 sec 88	5 min 351	10 min 262	> 10 min 3070	
+2301 bem-components.txt
+0 sec 146	30 sec 171	60 sec 114	5 min 278	10 min 146	> 10 min 1446	
+5131 www.txt
+0 sec 185	30 sec 288	60 sec 157	5 min 736	10 min 433	> 10 min 3332	
+3425 arcavias-core.txt
+0 sec 64	30 sec 138	60 sec 210	5 min 540	10 min 402	> 10 min 2071	
+13946 mbed.txt
+0 sec 1458	30 sec 1857	60 sec 729	5 min 1640	10 min 852	> 10 min 7410	
+7959 dbal.txt
+0 sec 200	30 sec 451	60 sec 265	5 min 1095	10 min 659	> 10 min 5289	
+11743 nipype.txt
+0 sec 832	30 sec 833	60 sec 474	5 min 1611	10 min 868	> 10 min 7125	
+4499 progit.txt
+0 sec 181	30 sec 380	60 sec 168	5 min 497	10 min 312	> 10 min 2961	
+63074 https-everywhere.txt
+0 sec 10432	30 sec 17703	60 sec 6878	5 min 11022	10 min 3506	> 10 min 13533	
+49821 ruby.txt
+0 sec 186	30 sec 6032	60 sec 786	5 min 4482	10 min 3381	> 10 min 34954	
+8466 wp-cli.txt
+0 sec 179	30 sec 370	60 sec 331	5 min 1223	10 min 818	> 10 min 5545	
+4327 Essentials.txt
+0 sec 61	30 sec 177	60 sec 128	5 min 561	10 min 396	> 10 min 3004	
+0 libuv.txt
+0 sec 0	30 sec 0	60 sec 0	5 min 0	10 min 0	> 10 min 0	
+4804 RapidFTR.txt
+0 sec 499	30 sec 269	60 sec 174	5 min 477	10 min 299	> 10 min 3086	
+3461 devise.txt
+0 sec 191	30 sec 139	60 sec 83	5 min 352	10 min 274	> 10 min 2422	
+5565 frontend.txt
+0 sec 394	30 sec 329	60 sec 153	5 min 668	10 min 507	> 10 min 3514	
+4614 ead.txt
+0 sec 541	30 sec 899	60 sec 359	5 min 618	10 min 297	> 10 min 1900	
+8915 homebrew-versions.txt
+0 sec 719	30 sec 1566	60 sec 340	5 min 942	10 min 454	> 10 min 4894	
+6478 geotools.txt
+0 sec 288	30 sec 382	60 sec 140	5 min 405	10 min 251	> 10 min 5012	
+3390 github-services.txt
+0 sec 73	30 sec 206	60 sec 145	5 min 580	10 min 269	> 10 min 2117	
+4325 czmq.txt
+0 sec 343	30 sec 171	60 sec 131	5 min 437	10 min 270	> 10 min 2973	
+5954 sbt.txt
+0 sec 1097	30 sec 451	60 sec 219	5 min 575	10 min 233	> 10 min 3379	
+3618 moment.txt
+0 sec 611	30 sec 262	60 sec 163	5 min 673	10 min 269	> 10 min 1640	
+4491 scala-js.txt
+0 sec 371	30 sec 261	60 sec 73	5 min 318	10 min 188	> 10 min 3280	
+10666 curriculum.txt
+0 sec 4279	30 sec 743	60 sec 316	5 min 1066	10 min 589	> 10 min 3673	
+21612 TypeScript.txt
+0 sec 160	30 sec 2281	60 sec 957	5 min 3352	10 min 2559	> 10 min 12303	
+5374 droidplanner.txt
+0 sec 144	30 sec 369	60 sec 248	5 min 837	10 min 601	> 10 min 3175	
+4981 lithium.txt
+0 sec 1458	30 sec 393	60 sec 123	5 min 425	10 min 245	> 10 min 2337	
+6382 Agora.txt
+0 sec 357	30 sec 420	60 sec 370	5 min 953	10 min 638	> 10 min 3644	
+3908 ng-grid.txt
+0 sec 43	30 sec 203	60 sec 156	5 min 478	10 min 328	> 10 min 2700	
+6392 lmms.txt
+0 sec 189	30 sec 425	60 sec 423	5 min 807	10 min 375	> 10 min 4173	
+8709 phaser.txt
+0 sec 279	30 sec 1197	60 sec 431	5 min 1158	10 min 523	> 10 min 5121	
+1952 pp-puppet.txt
+0 sec 33	30 sec 59	60 sec 62	5 min 280	10 min 202	> 10 min 1316	
+4095 caffe.txt
+0 sec 749	30 sec 256	60 sec 93	5 min 349	10 min 208	> 10 min 2440	
+6083 jsbin.txt
+0 sec 274	30 sec 1049	60 sec 497	5 min 1003	10 min 452	> 10 min 2808	
+7169 flynn.txt
+0 sec 1143	30 sec 498	60 sec 271	5 min 741	10 min 464	> 10 min 4052	
+5490 padrino-framework.txt
+0 sec 178	30 sec 245	60 sec 231	5 min 746	10 min 424	> 10 min 3666	
+2703 Addon-Tests.txt
+0 sec 5	30 sec 53	60 sec 60	5 min 318	10 min 218	> 10 min 2049	
+8431 thelia.txt
+0 sec 1068	30 sec 619	60 sec 464	5 min 1147	10 min 663	> 10 min 4470	
+2150 phantomjs.txt
+0 sec 135	30 sec 184	60 sec 88	5 min 236	10 min 141	> 10 min 1366	
+10506 celery.txt
+0 sec 140	30 sec 1209	60 sec 731	5 min 1728	10 min 853	> 10 min 5845	
+9178 Aloha-Editor.txt
+0 sec 277	30 sec 1327	60 sec 601	5 min 1700	10 min 820	> 10 min 4453	
+11608 rippled.txt
+0 sec 2177	30 sec 2258	60 sec 678	5 min 1168	10 min 607	> 10 min 4720	
+24757 piwik.txt
+0 sec 918	30 sec 1264	60 sec 841	5 min 3557	10 min 2375	> 10 min 15802	
+3374 sidekiq.txt
+0 sec 25	30 sec 185	60 sec 93	5 min 356	10 min 265	> 10 min 2450	
+5811 sufia.txt
+0 sec 453	30 sec 228	60 sec 199	5 min 614	10 min 370	> 10 min 3947	
+8301 archivesspace.txt
+0 sec 2532	30 sec 636	60 sec 222	5 min 727	10 min 406	> 10 min 3778	
+12324 contiki.txt
+0 sec 913	30 sec 1015	60 sec 790	5 min 2118	10 min 795	> 10 min 6693	
+6201 scalaz.txt
+0 sec 228	30 sec 277	60 sec 201	5 min 647	10 min 455	> 10 min 4393	
+12931 zanata-server.txt
+0 sec 800	30 sec 962	60 sec 533	5 min 1535	10 min 956	> 10 min 8145	
+856 octopress.txt
+0 sec 5	30 sec 41	60 sec 23	5 min 88	10 min 48	> 10 min 651	
+11583 qreal.txt
+0 sec 404	30 sec 408	60 sec 251	5 min 1154	10 min 908	> 10 min 8458	
+5341 WP-e-Commerce.txt
+0 sec 99	30 sec 828	60 sec 247	5 min 789	10 min 427	> 10 min 2951	
+6249 Codeception.txt
+0 sec 35	30 sec 295	60 sec 244	5 min 896	10 min 520	> 10 min 4259	
+3694 vraptor4.txt
+0 sec 151	30 sec 195	60 sec 188	5 min 651	10 min 328	> 10 min 2181	
+5205 balanced-dashboard.txt
+0 sec 452	30 sec 312	60 sec 186	5 min 720	10 min 546	> 10 min 2989	
+7449 vumi.txt
+0 sec 218	30 sec 356	60 sec 327	5 min 1216	10 min 786	> 10 min 4546	
+15158 paparazzi.txt
+0 sec 603	30 sec 831	60 sec 780	5 min 2015	10 min 982	> 10 min 9947	
+6561 developer.txt
+0 sec 193	30 sec 1119	60 sec 434	5 min 1186	10 min 518	> 10 min 3111	
+4314 rails_admin.txt
+0 sec 240	30 sec 189	60 sec 129	5 min 443	10 min 297	> 10 min 3016	
+2333 edx-ora2.txt
+0 sec 185	30 sec 129	60 sec 66	5 min 224	10 min 212	> 10 min 1517	
+6812 cat.txt
+0 sec 4	30 sec 640	60 sec 292	5 min 991	10 min 647	> 10 min 4238	
+15310 encoded.txt
+0 sec 346	30 sec 983	60 sec 841	5 min 2316	10 min 1432	> 10 min 9392	
+3567 luigi.txt
+0 sec 196	30 sec 195	60 sec 91	5 min 299	10 min 160	> 10 min 2626	
+7915 seqan.txt
+0 sec 571	30 sec 726	60 sec 323	5 min 1012	10 min 593	> 10 min 4690	
+1619 html5-boilerplate.txt
+0 sec 25	30 sec 57	60 sec 43	5 min 182	10 min 96	> 10 min 1216	
+5132 OpenSlides.txt
+0 sec 68	30 sec 258	60 sec 190	5 min 746	10 min 551	> 10 min 3319	
+4541 rpcs3.txt
+0 sec 329	30 sec 687	60 sec 59	5 min 236	10 min 191	> 10 min 3039	
+4538 pulp_rpm.txt
+0 sec 5	30 sec 424	60 sec 324	5 min 604	10 min 320	> 10 min 2861	
+3074 rhc.txt
+0 sec 430	30 sec 106	60 sec 45	5 min 193	10 min 127	> 10 min 2173	
+2732 fcrepo4.txt
+0 sec 196	30 sec 115	60 sec 44	5 min 167	10 min 131	> 10 min 2079	
+2554 cgxp.txt
+0 sec 176	30 sec 144	60 sec 86	5 min 283	10 min 158	> 10 min 1707	
+17424 pacemaker.txt
+0 sec 1341	30 sec 961	60 sec 1220	5 min 2895	10 min 1025	> 10 min 9982	
+2044 jshint.txt
+0 sec 122	30 sec 118	60 sec 72	5 min 282	10 min 158	> 10 min 1292	
+8829 nikola.txt
+0 sec 372	30 sec 462	60 sec 373	5 min 1451	10 min 858	> 10 min 5313	
+7002 Pillow.txt
+0 sec 480	30 sec 369	60 sec 430	5 min 1306	10 min 547	> 10 min 3870	
+9451 canjs.txt
+0 sec 1546	30 sec 645	60 sec 313	5 min 1015	10 min 628	> 10 min 5304	
+2395 veewee.txt
+0 sec 77	30 sec 139	60 sec 141	5 min 337	10 min 179	> 10 min 1522	
+5387 topaz.txt
+0 sec 132	30 sec 248	60 sec 231	5 min 1068	10 min 688	> 10 min 3020	
+3779 alloy.txt
+0 sec 108	30 sec 413	60 sec 261	5 min 411	10 min 197	> 10 min 2389	
+7441 web2py.txt
+0 sec 1529	30 sec 315	60 sec 256	5 min 879	10 min 518	> 10 min 3944	
+1373 geotrellis.txt
+0 sec 462	30 sec 117	60 sec 45	5 min 76	10 min 40	> 10 min 633	
+2963 JabbR.txt
+0 sec 25	30 sec 180	60 sec 56	5 min 394	10 min 301	> 10 min 2007	
+3574 Haraka.txt
+0 sec 305	30 sec 211	60 sec 169	5 min 529	10 min 248	> 10 min 2112	
+3142 sensu.txt
+0 sec 174	30 sec 41	60 sec 91	5 min 488	10 min 376	> 10 min 1972	
+2336 ninja.txt
+0 sec 102	30 sec 117	60 sec 64	5 min 325	10 min 169	> 10 min 1559	
+3026 video.txt
+0 sec 65	30 sec 176	60 sec 127	5 min 650	10 min 280	> 10 min 1728	
+3679 mit-license.txt
+0 sec 32	30 sec 507	60 sec 138	5 min 299	10 min 134	> 10 min 2569	
+1595 resque.txt
+0 sec 56	30 sec 157	60 sec 85	5 min 279	10 min 155	> 10 min 863	
+13077 stan.txt
+0 sec 181	30 sec 1460	60 sec 578	5 min 1777	10 min 995	> 10 min 8086	
+9754 sproutcore.txt
+0 sec 2997	30 sec 1205	60 sec 369	5 min 841	10 min 423	> 10 min 3919	
+13984 invenio.txt
+0 sec 1464	30 sec 1146	60 sec 626	5 min 2171	10 min 1106	> 10 min 7471	
+3776 graphite-web.txt
+0 sec 180	30 sec 98	60 sec 127	5 min 363	10 min 304	> 10 min 2704	
+9520 docs.txt
+0 sec 94	30 sec 826	60 sec 553	5 min 1666	10 min 1069	> 10 min 5312	
+3984 gaia.txt
+0 sec 1	30 sec 154	60 sec 265	5 min 878	10 min 409	> 10 min 2277	
+15035 frappe.txt
+0 sec 1238	30 sec 1048	60 sec 715	5 min 2026	10 min 1147	> 10 min 8861	
+2117 hflossk.txt
+0 sec 22	30 sec 342	60 sec 222	5 min 449	10 min 169	> 10 min 913	
+11648 LedgerSMB.txt
+0 sec 195	30 sec 197	60 sec 260	5 min 1403	10 min 1083	> 10 min 8510	
+4131 WebsiteOne.txt
+0 sec 438	30 sec 166	60 sec 97	5 min 396	10 min 279	> 10 min 2755	
+2487 stellar-client.txt
+0 sec 107	30 sec 150	60 sec 93	5 min 428	10 min 288	> 10 min 1421	
+2355 webpay.txt
+0 sec 17	30 sec 86	60 sec 62	5 min 213	10 min 160	> 10 min 1817	
+3177 flask.txt
+0 sec 97	30 sec 205	60 sec 145	5 min 482	10 min 242	> 10 min 2006	
+4194 webview.txt
+0 sec 299	30 sec 239	60 sec 195	5 min 620	10 min 409	> 10 min 2432	
+5090 mezzanine.txt
+0 sec 112	30 sec 386	60 sec 263	5 min 714	10 min 396	> 10 min 3219	
+11182 qt-client.txt
+0 sec 6	30 sec 176	60 sec 322	5 min 1062	10 min 702	> 10 min 8914	
+9370 DGtal.txt
+0 sec 45	30 sec 413	60 sec 349	5 min 1410	10 min 857	> 10 min 6296	
+13396 alaveteli.txt
+0 sec 2548	30 sec 1346	60 sec 591	5 min 1752	10 min 988	> 10 min 6171	
+11232 cas.txt
+0 sec 34	30 sec 691	60 sec 426	5 min 1633	10 min 1035	> 10 min 7413	
+1766 symfony-docs-fr.txt
+0 sec 22	30 sec 191	60 sec 164	5 min 333	10 min 112	> 10 min 944	
+6168 marathon.txt
+0 sec 382	30 sec 232	60 sec 159	5 min 605	10 min 400	> 10 min 4390	
+2753 ralph_assets.txt
+0 sec 66	30 sec 103	60 sec 99	5 min 420	10 min 255	> 10 min 1810	
+30328 ardupilot.txt
+0 sec 11759	30 sec 5637	60 sec 701	5 min 1630	10 min 900	> 10 min 9701	
+4305 amber.txt
+0 sec 153	30 sec 336	60 sec 183	5 min 702	10 min 441	> 10 min 2490	
+8517 shinken.txt
+0 sec 218	30 sec 396	60 sec 300	5 min 1097	10 min 646	> 10 min 5860	
+9299 gaffer.txt
+0 sec 2328	30 sec 674	60 sec 217	5 min 811	10 min 469	> 10 min 4800	
+3822 fabric.txt
+0 sec 104	30 sec 133	60 sec 121	5 min 424	10 min 295	> 10 min 2745	
+5053 mongo-ruby-driver.txt
+0 sec 682	30 sec 241	60 sec 151	5 min 542	10 min 338	> 10 min 3099	
+4849 beaker.txt
+0 sec 275	30 sec 190	60 sec 123	5 min 629	10 min 318	> 10 min 3314	
+10976 ESP-Website.txt
+0 sec 686	30 sec 902	60 sec 606	5 min 1820	10 min 869	> 10 min 6093	
+7806 autotest.txt
+0 sec 840	30 sec 674	60 sec 568	5 min 1523	10 min 486	> 10 min 3715	
+1130 hound.txt
+0 sec 36	30 sec 11	60 sec 7	5 min 64	10 min 55	> 10 min 957	
+7491 blaze.txt
+0 sec 1164	30 sec 698	60 sec 293	5 min 983	10 min 632	> 10 min 3721	
+2246 salt-cloud.txt
+0 sec 181	30 sec 127	60 sec 104	5 min 426	10 min 186	> 10 min 1222	
+3283 fuelux.txt
+0 sec 81	30 sec 159	60 sec 103	5 min 488	10 min 310	> 10 min 2142	
+8713 micropython.txt
+0 sec 715	30 sec 546	60 sec 323	5 min 1038	10 min 656	> 10 min 5435	
+2400 Modernizr.txt
+0 sec 95	30 sec 74	60 sec 72	5 min 299	10 min 180	> 10 min 1680	
+22076 mercury.txt
+0 sec 361	30 sec 1307	60 sec 1110	5 min 5204	10 min 3424	> 10 min 10670	
+9606 apps.txt
+0 sec 831	30 sec 885	60 sec 405	5 min 1105	10 min 584	> 10 min 5796	
+1546 popcorn.txt
+0 sec 507	30 sec 95	60 sec 43	5 min 139	10 min 69	> 10 min 693	
+18211 grails-core.txt
+0 sec 652	30 sec 1922	60 sec 926	5 min 2160	10 min 1185	> 10 min 11366	
+1751 MopaBootstrapBundle.txt
+0 sec 2	30 sec 145	60 sec 63	5 min 216	10 min 123	> 10 min 1202	
+7377 psychopy.txt
+0 sec 145	30 sec 497	60 sec 272	5 min 757	10 min 445	> 10 min 5261	
+3118 LMIS-Chrome.txt
+0 sec 172	30 sec 249	60 sec 283	5 min 750	10 min 316	> 10 min 1348	
+8417 mongoose.txt
+0 sec 365	30 sec 911	60 sec 445	5 min 1269	10 min 655	> 10 min 4772	
+4881 fizteh-java-2014.txt
+0 sec 45	30 sec 481	60 sec 421	5 min 1271	10 min 749	> 10 min 1914	
+4376 dropwizard.txt
+0 sec 214	30 sec 342	60 sec 152	5 min 512	10 min 280	> 10 min 2876	
+2711 less.txt
+0 sec 25	30 sec 274	60 sec 110	5 min 397	10 min 190	> 10 min 1715	
+2312 dkobo.txt
+0 sec 33	30 sec 120	60 sec 90	5 min 329	10 min 180	> 10 min 1560	
+6034 easybib-cookbooks.txt
+0 sec 198	30 sec 359	60 sec 274	5 min 757	10 min 650	> 10 min 3796	
+2882 capybara.txt
+0 sec 128	30 sec 140	60 sec 79	5 min 336	10 min 203	> 10 min 1996	
+1784 symfony-standard.txt
+0 sec 37	30 sec 223	60 sec 99	5 min 243	10 min 65	> 10 min 1117	
+2196 junit.txt
+0 sec 65	30 sec 142	60 sec 77	5 min 192	10 min 135	> 10 min 1585	
+2421 rspec-mocks.txt
+0 sec 165	30 sec 87	60 sec 42	5 min 248	10 min 124	> 10 min 1755	
+6846 sails.txt
+0 sec 83	30 sec 548	60 sec 315	5 min 1090	10 min 691	> 10 min 4119	
+43102 chamilo-lms.txt
+0 sec 62	30 sec 3001	60 sec 2314	5 min 6965	10 min 4367	> 10 min 26393	
+4621 fail2ban.txt
+0 sec 47	30 sec 236	60 sec 204	5 min 777	10 min 356	> 10 min 3001	
+17283 cppcheck.txt
+0 sec 208	30 sec 347	60 sec 313	5 min 1453	10 min 1166	> 10 min 13796	
+15632 inasafe.txt
+0 sec 1331	30 sec 918	60 sec 722	5 min 2417	10 min 1409	> 10 min 8835	
+6581 scrapy.txt
+0 sec 319	30 sec 186	60 sec 189	5 min 689	10 min 426	> 10 min 4772	
+7000 ilios.txt
+0 sec 1417	30 sec 292	60 sec 326	5 min 1011	10 min 570	> 10 min 3384	
+5911 Spout.txt
+0 sec 145	30 sec 603	60 sec 289	5 min 837	10 min 503	> 10 min 3534	
+6664 elliptics.txt
+0 sec 443	30 sec 668	60 sec 451	5 min 962	10 min 443	> 10 min 3697	
+3236 asciidoctor.txt
+0 sec 73	30 sec 206	60 sec 138	5 min 431	10 min 295	> 10 min 2093	
+1632 marketplace-tests.txt
+0 sec 6	30 sec 17	60 sec 31	5 min 173	10 min 131	> 10 min 1274	
+20223 sentry.txt
+0 sec 1269	30 sec 1483	60 sec 780	5 min 3555	10 min 2308	> 10 min 10828	
+4939 growstuff.txt
+0 sec 530	30 sec 256	60 sec 206	5 min 753	10 min 472	> 10 min 2722	
+5726 silverstripe-cms.txt
+0 sec 595	30 sec 909	60 sec 224	5 min 465	10 min 229	> 10 min 3304	
+3587 encore-ui.txt
+0 sec 198	30 sec 166	60 sec 146	5 min 420	10 min 232	> 10 min 2425	
