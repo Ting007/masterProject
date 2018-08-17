@@ -1,4 +1,4 @@
-###This project presents a broad evaluation of the testing process of CI for the projects on the GITHUB.<br /> 
+## This project presents a broad evaluation of the testing process of CI for the projects on the GITHUB.<br /> 
 
 
 We use large historical data of GITHUB projects to figure out the important metrics of the open source project to improve the efficiency, convenience, time saving and labor saving of the software project testing.<br />
@@ -7,13 +7,13 @@ We use large historical data of GITHUB projects to figure out the important metr
 This paper provides several bar chart view for the adapted test algorithm which could be used in open source project with CI and aims to be a stepping stone for academia to provides more efficient time frame for the software testing.<br />
 
 
-##BarChart
+## BarChart
 ![BarChart 1](/testing.pdf)
 ![BarChart 2](/commits_distribution.pdf)
 ![BarChart 3](/numbers.pdf)
 ![BarChart 4](/composition.pdf)
 
-##Files:
+## Files:
 folder OSSprojets includes all the metrics analysis of projects
 folder automatedTestSelector is a plugin for the jenkins regression test selection
 folder moduleSelection is a script for the module test selection.
@@ -25,11 +25,11 @@ pushTestAirlift.sh is used to simulate the changes of code to airliftTest.
 
 -Plugin for regression test selection can be found in folder (Java 8):
 automatedTestSelector
-##It is under the maven tool and following the standard command of maven lifecycle.
+## It is under the maven tool and following the standard command of maven lifecycle.
 
 -Script for module test selection can be found in folder:
 moduleSelection/moduleSelection.sh
-##It is a standard shell script to generare the module list for the changes code.
+## It is a standard shell script to generare the module list for the changes code.
 to run the script, run "./moduleSelection.sh" under the configuration/build/execute shell. or paste the code in window configuration/build/execute shell
 
 -to simulte the commits from the commits ID or verion tag to the repo of projects:
