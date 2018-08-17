@@ -5,12 +5,13 @@ We use large historical data of GITHUB projects to figure out the important metr
 
 
 This paper provides several bar chart view for the adapted test algorithm which could be used in open source project with CI and aims to be a stepping stone for academia to provides more efficient time frame for the software testing.<br />
+![Dependence Analysis for Regression Testing Selection](/OSSprojects/graphs/dependency.pdf)
 
 
 ## BarChart
-![BarChart 2](/commits_distribution.pdf)
-![BarChart 3](/numbers.pdf)
-![BarChart 4](/composition.pdf)
+![Time Interval Vs Commits](/OSSprojects/graphs/commits_distribution.pdf)
+![Files at Different Time Interval](/OSSprojects/graphs/numbers.pdf)
+![File Types at Different Time interval](/OSSprojects/graphs/composition.pdf)
 
 ## Files:
 folder OSSprojets includes all the metrics analysis of projects
