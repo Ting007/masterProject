@@ -6,16 +6,35 @@ We use large historical data of GITHUB projects to figure out the important metr
 
 This paper provides several bar chart view for the adapted test algorithm which could be used in open source project with CI and aims to be a stepping stone for academia to provides more efficient time frame for the software testing.<br />
 <!-- ![Dependence Analysis for Regression Testing Selection](/OSSprojects/graphs/dependency.pdf) -->
+### Dependence Analysis for Regression Testing Selection
 <object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/dependency.pdf" type="application/pdf" width="200px" height="200px">
     <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/dependency.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/dependency.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please follow the link to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/dependency.pdf">view PDF</a>.</p>
     </embed>
 </object>
 
 ## BarChart
-![Time Interval Vs Commits](/OSSprojects/graphs/commits_distribution.pdf)
-![Files at Different Time Interval](/OSSprojects/graphs/numbers.pdf)
-![File Types at Different Time interval](/OSSprojects/graphs/composition.pdf)
+### T ime Interval Vs Commits
+<object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/commits_distribution.pdf" type="application/pdf" width="200px" height="200px">
+    <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/commits_distribution.pdf">
+        <p>This browser does not support PDFs. Please follow the link to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/commits_distribution.pdf">view PDF</a>.</p>
+    </embed>
+</object>
+
+### Files at Different Time Interval]
+<object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/numbers.pdf" type="application/pdf" width="400px" height="700px">
+    <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/numbers.pdf">
+        <p>This browser does not support PDFs. Please follow the link to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/numbers.pdf">view PDF</a>.</p>
+    </embed>
+</object>
+
+
+### File Types at Different Time interval]
+<object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/composition.pdf" type="application/pdf" width="400px" height="700px">
+    <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/composition.pdf">
+        <p>This browser does not support PDFs. Please follow the link to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/composition.pdf">view PDF</a>.</p>
+    </embed>
+</object>
 
 ## Files:
 folder OSSprojets includes all the metrics analysis of projects
