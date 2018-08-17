@@ -8,7 +8,6 @@ This paper provides several bar chart view for the adapted test algorithm which 
 
 
 ## BarChart
-![BarChart 1](/testing.pdf)
 ![BarChart 2](/commits_distribution.pdf)
 ![BarChart 3](/numbers.pdf)
 ![BarChart 4](/composition.pdf)
@@ -25,11 +24,11 @@ pushTestAirlift.sh is used to simulate the changes of code to airliftTest.
 
 -Plugin for regression test selection can be found in folder (Java 8):
 automatedTestSelector
-## It is under the maven tool and following the standard command of maven lifecycle.
+#### It is under the maven tool and following the standard command of maven lifecycle.
 
 -Script for module test selection can be found in folder:
 moduleSelection/moduleSelection.sh
-## It is a standard shell script to generare the module list for the changes code.
+#### It is a standard shell script to generare the module list for the changes code.
 to run the script, run "./moduleSelection.sh" under the configuration/build/execute shell. or paste the code in window configuration/build/execute shell
 
 -to simulte the commits from the commits ID or verion tag to the repo of projects:
@@ -42,36 +41,38 @@ for testing of airlift
 ./pushTestAirlift.sh commits.txt
 
 -The list of all the OSS on GITHUB can be found under folder OSSprojects.
-OSSprojects/fullList.csv  ##random order of lists
-OSSprojects/ullListA-Z.csv ##ordered by the program languages
+#### random order of lists
+OSSprojects/fullList.csv
+#### ordered by the program languages  
+OSSprojects/ullListA-Z.csv 
 
 -The URL and list of all the projects sorted by programming languages can be found in folder OSSprojects/URLlist
-CplusProg.csv			
-Cprog.csv		
-JavaProg.csv		
-phpProg.csv
-JscriptProg.csv	
-pyProg.csv
-rbProg.csv
-scalaProg.csv
+CplusProg.csv <br />			
+Cprog.csv <br />
+JavaProg.csv <br />		
+phpProg.csv <br />
+JscriptProg.csv	<br />
+pyProg.csv <br />
+rbProg.csv <br />
+scalaProg.csv <br />
 
 Generated project URL list under the same fold URLlist:
-gitURLSlProg.csv
-gitURLCplusProg.csv
-gitURLCprog.csv
-gitURLJSProg.csv
-gitURLJavaProg.csv
-gitURLPhpProg.csv	
-gitURLPyProg.csv
-gitURLRbProg.csv
+gitURLSlProg.csv <br />
+gitURLCplusProg.csv <br />
+gitURLCprog.csv <br />
+gitURLJSProg.csv <br />
+gitURLJavaProg.csv <br />
+gitURLPhpProg.csv <br />	
+gitURLPyProg.csv <br />
+gitURLRbProg.csv <br />
 
 
 raw data for commit frequency: under the folder of OSSprojects/freqCommit
 FreqResult.xlsx(overall data in sheet2)	
-comProj.csv	
-comProj1.csv	
-comProj3.csv	
-comProj4.csv
+comProj.csv	 <br />
+comProj1.csv <br />
+comProj3.csv <br />
+comProj4.csv <br />
 
 
 
@@ -80,14 +81,14 @@ File_commit/123calType/
 raw data of file compositin and file counter per commit can be found under folder File_commit:
 
 File count:
-CplusCount.csv		
-RbCount.csv
-PhpCount.csv
-SlCount.csv
-PyCount.csv
-CprogCount.csv
-JSCount.csv
-JavaCount.csv
+CplusCount.csv<br />
+RbCount.csv<br />
+PhpCount.csv<br />
+SlCount.csv<br />
+PyCount.csv<br />
+CprogCount.csv<br />
+JSCount.csv<br />
+JavaCount.csv<br />
 
 File type percentate:
 RbPect.csv
@@ -100,7 +101,7 @@ JavaPect.csv
 JSPect.csv		
 
 raw data summary in excel and normalized
-rawDataCplus.xlsx		
+rawDataCplus.xlsx	
 RawDataJS.xlsx		
 rawDataCprog.xlsx		
 RawDataPhp.xlsx		
