@@ -1,6 +1,6 @@
-##This project presents a broad evaluation of the testing process of CI for the projects on the GITHUB.<\BR> 
-We use large historical data of GITHUB projects to figure out the important metrics of the open source project to improve the efficiency, convenience, time saving and labor saving of the software project testing. 
-This paper provides several bar chart view for the adapted test algorithm which could be used in open source project with CI and aims to be a stepping stone for academia to provides more efficient time frame for the software testing.
+##This project presents a broad evaluation of the testing process of CI for the projects on the GITHUB.<br /> 
+We use large historical data of GITHUB projects to figure out the important metrics of the open source project to improve the efficiency, convenience, time saving and labor saving of the software project testing.<br />
+This paper provides several bar chart view for the adapted test algorithm which could be used in open source project with CI and aims to be a stepping stone for academia to provides more efficient time frame for the software testing.<br />
 
 ##BarChart
 ![BarChart 1](/testing.pdf)
