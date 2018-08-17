@@ -21,7 +21,7 @@ This paper provides several bar chart view for the adapted test algorithm which 
     </embed>
 </object>
 
-### Files at Different Time Interval]
+### Files at Different Time Interval
 <object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/numbers.pdf" type="application/pdf" width="400px" height="700px">
     <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/numbers.pdf">
         <p>This browser does not support PDFs. Please follow the link to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/numbers.pdf">view PDF</a>.</p>
@@ -29,7 +29,7 @@ This paper provides several bar chart view for the adapted test algorithm which 
 </object>
 
 
-### File Types at Different Time interval]
+### File Types at Different Time interval
 <object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/composition.pdf" type="application/pdf" width="400px" height="700px">
     <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/composition.pdf">
         <p>This browser does not support PDFs. Please follow the link to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/composition.pdf">view PDF</a>.</p>
