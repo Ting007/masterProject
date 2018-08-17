@@ -6,7 +6,11 @@ We use large historical data of GITHUB projects to figure out the important metr
 
 This paper provides several bar chart view for the adapted test algorithm which could be used in open source project with CI and aims to be a stepping stone for academia to provides more efficient time frame for the software testing.<br />
 ![Dependence Analysis for Regression Testing Selection](/OSSprojects/graphs/dependency.pdf)
-
+<object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/dependency.pdf" type="application/pdf" width="200px" height="200px">
+    <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/dependency.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/dependency.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 ## BarChart
 ![Time Interval Vs Commits](/OSSprojects/graphs/commits_distribution.pdf)
