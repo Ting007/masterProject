@@ -14,7 +14,7 @@ This paper provides several bar chart view for the adapted test algorithm which 
 </object>
 
 ## BarChart
-### T ime Interval Vs Commits
+### Time Interval Vs Commits
 <object data="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/commits_distribution.pdf" type="application/pdf" width="200px" height="200px">
     <embed src="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/commits_distribution.pdf">
         <p>This browser does not support PDFs. Please follow the link to view it: <a href="https://github.com/Ting007/masterProject/blob/master/OSSprojects/graphs/commits_distribution.pdf">view PDF</a>.</p>
